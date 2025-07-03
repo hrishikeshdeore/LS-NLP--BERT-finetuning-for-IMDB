@@ -1,5 +1,11 @@
 # Sentiment Analysis Pipeline using BERT (Fine-tuned on IMDB)
 
+## Hugging Face Model Link
+
+👉 [View the Fine-Tuned Model on Hugging Face](https://huggingface.co/HrishikeshDeore/Bert_base_finetuned_IMDB) 
+
+---
+
 ## Overview
 
 This project implements a sentiment analysis pipeline using a pre-trained BERT model fine-tuned on the IMDB movie review dataset. The pipeline performs binary classification (positive/negative sentiment) using Hugging Face Transformers. It includes data loading, preprocessing with `BertTokenizer`, model training using `Trainer`, and final model deployment via Hugging Face Model Hub.
@@ -22,11 +28,6 @@ Anticipated challenges include high memory requirements for BERT fine-tuning and
 - `sentiment-model/`: Directory with fine-tuned model and tokenizer files.
 - `README.md`: This file.
 
-## Hugging Face Model Link
-
-👉 [View the Fine-Tuned Model on Hugging Face](https://huggingface.co/HrishikeshDeore/Bert_base_finetuned_IMDB) 
-
----
 
 ## Requirements
 
