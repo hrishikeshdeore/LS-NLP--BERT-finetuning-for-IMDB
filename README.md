@@ -24,7 +24,7 @@ Anticipated challenges include high memory requirements for BERT fine-tuning and
 
 ## Hugging Face Model Link
 
-👉 [View the Fine-Tuned Model on Hugging Face](https://huggingface.co/HrishikeshDeore/sentiment-bert-imdb) *(replace after upload)*
+👉 [View the Fine-Tuned Model on Hugging Face](https://huggingface.co/HrishikeshDeore/Bert_base_finetuned_IMDB) 
 
 ---
 
